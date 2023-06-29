@@ -9,6 +9,6 @@ CSS
 JAVASCRIPT
 <br>
 
-Live Demo 
+Live Demo Link
 <br>
 file:///C:/Users/91709/OneDrive/Desktop/NETFLIX%20CLONE%20PROJECT/index.html
